@@ -5,6 +5,7 @@ heres the photo of it in action. ignore the text
 ![guy doing the thing](https://github.com/user-attachments/assets/4c0c967d-ccf1-4dd4-bcf1-787040dbe326)
 # how to get it to work
 first install neofetch
+
 you should be able to go into your root device, click the bin folder and search for neofetch. otherwise, just search neofetch and see what you find. 
 
 open it with a text editing program and scroll down to about halfway where all the distro ascii art is. you should see something like this: 
