@@ -1,4 +1,4 @@
-# gendo_neofetch_ascii
+# gendo_neofetch_ascii for linux btw idk if this works on other operating systems, i just know it works on linux
 made this for neofetch, i am not a linux expert so please take everything i have to say with a grain of salt. if i suck too much watch this video https://youtu.be/AZipRBJ14A0?si=L8gLXUb0rwCLGaHg . hes a supreme yapaholic, but it works i guess
 
 heres the photo of it in action. ignore the text
