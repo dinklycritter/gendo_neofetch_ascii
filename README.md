@@ -1,5 +1,5 @@
 # gendo_neofetch_ascii for linux btw idk if this works on other operating systems, i just know it works on linux
-made this for neofetch, i am not a linux expert so please take everything i have to say with a grain of salt. if i suck too much watch this video https://youtu.be/AZipRBJ14A0?si=L8gLXUb0rwCLGaHg . hes a supreme yapaholic, but it works i guess
+made this for neofetch, i am not a linux expert so please take everything i have to say with a grain of salt. if i suck too much watch this video https://youtu.be/AZipRBJ14A0?si=L8gLXUb0rwCLGaHg . he takes a while to get to the point, but it works i guess
 
 heres the photo of it in action. ignore the text
 ![guy doing the thing](https://github.com/user-attachments/assets/4c0c967d-ccf1-4dd4-bcf1-787040dbe326)
@@ -23,5 +23,4 @@ when you are sure that everything here is done, save your edits (dont close) and
 after this, im pretty sure youre good to go, SAVE, and then try it out
 if my instructions suck or youre stuck, please email me at superdbadboychesterstone745@gmail.com
 
-thank you !!
-![blehh](https://github.com/user-attachments/assets/444109db-f645-495b-856b-3844e5bc0489)
+thank you
